@@ -1,2 +1,2 @@
-# todoApp-reactjs-minicurso
-Aplicação exemplo para o minicurso de ReactJS da UNIFENAS.
+# reactjs-base
+A base of ReactJS project with Materialize and JQuery
